@@ -1,2 +1,2 @@
-# santu9.github.io
+# nidri.github.io
 Personal webpage
