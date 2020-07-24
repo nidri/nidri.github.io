@@ -14,13 +14,13 @@
 
 html {
     font-family: 'Roboto', sans-serif;
+    background: var(--bg-color);
+    color: var(--text-color);
 }
 body {
     box-sizing: border-box;
 }
 .container {
-    background: var(--bg-color);
-    color: var(--text-color);
     margin: 0 auto;
     max-width: 1170px;
 }
