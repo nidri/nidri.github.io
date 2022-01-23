@@ -88,10 +88,14 @@ body {
   line-height: 2;
 }
 
+.social {
+  word-spacing: 1ch;
+}
+
 
 .footer {
   min-height: 5em;
-  /* background-color: #88076c; */
+  margin-top: 2em;
 }
 
 /*** Elements ***/
@@ -100,6 +104,11 @@ a {
 }
 
 /*** Helper classes ***/
+
+.centered {
+  text-align: center;
+}
+
 .margin-lr-auto {
   margin-left: auto;
   margin-right: auto;
