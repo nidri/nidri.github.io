@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Roboto+Mono&display=swap');
-
 :root {
   --bg-color: #ffffff;
   --text-color: #000000;
@@ -19,7 +17,7 @@
 }
 
 html {
-    font-family: 'Noto Serif', serif;
+    font-family: 'Special Elite', cursive;
     background: var(--bg-color);
     color: var(--text-color);
 }
@@ -39,10 +37,6 @@ body {
   margin-top: 5em;
 }
 
-.header .title {
-  font-family: 'Roboto Mono', monospace;
-}
-
 .main {
   flex-grow: 1;
 }
@@ -50,7 +44,7 @@ body {
 .writeup {
   max-width: 75ch;
   line-height: 2;
-  font-size: 1.5em;
+  font-size: 2em;
   margin: 3em 0;
 }
 
