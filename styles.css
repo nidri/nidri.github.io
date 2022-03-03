@@ -4,8 +4,8 @@
 }
 
 [data-theme = "dark"] {
-  --bg-color: #001628;
-  --text-color: #ffffff;
+  --bg-color: rgb(13, 17, 23);
+  --text-color: rgb(201, 209, 217);
   --anchor: #3ff7f7;
 }
 
@@ -72,12 +72,11 @@ body {
   font-size: 1.75em;
   font-weight: 500;
   width: 100%;
-  font-family: 'Roboto Mono', monospace;
   min-height: 3em;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: hsl(0deg 95% 50%);
+  background-color: hsl(0deg 91% 25%);
   /* opacity: 0.7; */
 }
 
