@@ -17,7 +17,7 @@
 }
 
 html {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Courier Prime', monospace;
     background: var(--bg-color);
     color: var(--text-color);
 }
